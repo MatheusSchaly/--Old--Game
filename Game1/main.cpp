@@ -6,7 +6,7 @@
 
 int main() {
 
-    int map[9][9], i, j, iRand;
+    int map[10][10], i, j, iRand;
 
     for (i=0; i < 10; i++) {
         for (j=0; j < 10; j++) {
